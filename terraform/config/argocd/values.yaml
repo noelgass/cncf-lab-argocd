@@ -1,0 +1,6 @@
+configs:
+  repositories:
+    gitops:
+      url: https://github.com/noelgass/cncf-lab-argocd-boostrap.git
+      name: cncf-lab-argocd-boostrap
+      type: git
